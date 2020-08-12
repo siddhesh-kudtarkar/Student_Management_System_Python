@@ -53,7 +53,7 @@ Setting up and installing this software is easy by just installing Python3, Pyth
 1.  First setup your MySQL credentials in the 'functions.py' file.
 2.  Open your terminal and navigate to the project's directory and run the following command:
 
-        python main.py
+        python3 main.py
 
 # Built with:
 1.    Python3 - GUI for the software.
