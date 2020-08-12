@@ -28,7 +28,7 @@ Setting up and installing this software is easy by just installing Python3, Pyth
         pip install mysql-connector requests matplotlib bs4
 
 **For Ubuntu/Debian users:**
-1.	Install Python3 by running the following command in terminal: sudo apt-get install python3. By default, Debian, Ubuntu or any other Linux distributions come with Python pre-installed.
+1.	By default, Debian, Ubuntu or any other Linux distributions come with Python pre-installed.
 2.	To install Python3's Tkinter GUI library and Python Package Installer (pip), run the following command in the terminal: 
       
         sudo apt-get install python3-tk tk-dev python3-pip
